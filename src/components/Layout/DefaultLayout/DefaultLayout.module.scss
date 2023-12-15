@@ -5,9 +5,9 @@
 }
 
 .container {
-    width: 1150px;
+    width: var(--default-layout-width);
     min-height: 1000px;
-    background-color: #888;
+    // background-color: #888;
     display: flex;
     justify-content: center;
  }
